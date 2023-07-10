@@ -1,0 +1,14 @@
+.list_item {
+  display: flex;
+  gap: 30px;
+  
+}
+
+.button_delete {
+  padding: 6px;
+  border-radius: 15px;
+  border: none;
+  background-color: #fff;
+  color: black;
+  font-size: 16px;
+}
