@@ -1,9 +1,11 @@
 .list_item {
   display: flex;
   gap: 30px;
-  text-transform: capitalize;
+  
   
 }
+
+
 
 .button_delete {
   padding: 6px;
